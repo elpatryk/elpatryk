@@ -1,5 +1,4 @@
-Welcome to my GitHub profile!👌🏼
-
+**Welcome to my GitHub profile!👌🏼**
 
 Hello, my name is Patryk and I am a full stack developer with a passion for learning new technologies. I recently graduated from the Codaisseur Academy, where I received hands-on training in various technologies such as React, Redux, JavaScript, and TypeScript. My passion for coding drives me to continue learning and expanding my skillset.
 
