@@ -11,3 +11,8 @@ On my GitHub, you can find various projects that I have worked on, showcasing my
 
 Please feel free to take a look at my Github profile and review my projects, I will be happy to answer any question and provide more information.
 
+<div id="badges">
+  <a href="https://www.linkedin.com/in/patrykzmurko/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
