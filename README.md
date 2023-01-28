@@ -1,4 +1,4 @@
-<h1>**Welcome to my GitHub profile!👌🏼**</h1>
+<h1 className=" text-center">**Welcome to my GitHub profile!👌🏼**</h1>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/l3q2zbskZp2j8wniE/giphy.gif](https://media.giphy.com/media/l3q2zbskZp2j8wniE/giphy-downsized-large.gif" width="300"/>
