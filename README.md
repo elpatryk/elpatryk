@@ -1,7 +1,7 @@
 **Welcome to my GitHub profile!👌🏼**
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/l3q2zbskZp2j8wniE/giphy.gif](https://media.giphy.com/media/l3q2zbskZp2j8wniE/giphy-downsized-large.gif" width="100"/>
+  <img src="https://media.giphy.com/media/l3q2zbskZp2j8wniE/giphy.gif](https://media.giphy.com/media/l3q2zbskZp2j8wniE/giphy-downsized-large.gif" width="300"/>
 </div>
 
 Hello, my name is Patryk and I am a full stack developer with a passion for learning new technologies. I recently graduated from the Codaisseur Academy, where I received hands-on training in various technologies such as React, Redux, JavaScript, and TypeScript. My passion for coding drives me to continue learning and expanding my skillset.
