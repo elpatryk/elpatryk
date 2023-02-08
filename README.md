@@ -1,9 +1,3 @@
-<h1 align="center">**Welcome to my GitHub profile!👌🏼**</h1>
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/l3q2zbskZp2j8wniE/giphy.gif](https://media.giphy.com/media/l3q2zbskZp2j8wniE/giphy-downsized-large.gif" width="300"/>
-</div>
-
 <h1 align="center">Hi 👋, I'm Patryk</h1>
 <h3 align="center">A passionate full stack developer from Poland</h3>
 
@@ -15,7 +9,7 @@
 
 - 🌱 I’m currently learning **NextJS, and more.**
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-topaz-delta.vercel.app/](https://my-portfolio-topaz-delta.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://github.com/elpatryk?tab=repositories](https://github.com/elpatryk?tab=repositories)
 
 - 📫 How to reach me **patrykzmurko@gmail.com**
 
@@ -35,10 +29,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elpatryk&show_icons=true&locale=en&layout=compact" alt="elpatryk" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elpatryk&show_icons=true&locale=en" alt="elpatryk" /></p>
-
-
-<div id="badges">
-  <a href="https://www.linkedin.com/in/patrykzmurko/">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
